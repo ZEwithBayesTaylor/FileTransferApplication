@@ -1,4 +1,4 @@
-# File Transfer App (Weiyao Li, wl2872)
+# File Transfer Application
 
 
 ## Project Objective
