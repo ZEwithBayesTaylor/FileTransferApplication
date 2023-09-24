@@ -36,14 +36,14 @@ _python main.py -s 5000_ <br/>
 - **Client3 (Bob):** `python main.py -c Bob 127.0.0.1 5000 5002 5003`
 
 #### File Offering
-- **Set Directory:** `setdir /Users/weiyaoli/Desktop/ownerDirectory` (CREATE YOUR OWN TEST OWNER DIRECTORY)
+- **Set Directory:** `setdir /Users/er/Desktop/owner` (CREATE YOUR OWN TEST OWNER DIRECTORY)
 - **Offer Files (single/multiple):** `offer file1.py file2.pdf file3.pdf` (CREATE YOUR OWN TEST FILES LOCALLY FOR 3)
 
 #### File Listing
 - **View Files:** `list`
 
 #### File Transfer
-- **Set Receiving Directory:** `set /Users/weiyaoli/Desktop/receiverDirectory` (example: request file1.pdf Dave)
+- **Set Receiving Directory:** `set /Users/er/Desktop/receiver` (example: request file1.pdf Dave)
 - **Request File from Owner:** `request <filename> <file owner>` (example: request file1.pdf Dave)
 
 #### De-registration
